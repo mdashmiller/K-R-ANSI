@@ -21,4 +21,5 @@ int main(void)
         printf("%7d\t%10d\n", celsius, fahr);
         celsius += step;
     }
+    return 0;
 }
